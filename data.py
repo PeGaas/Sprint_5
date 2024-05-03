@@ -1,6 +1,6 @@
-MAIN_URL = 'https://stellarburgers.nomoreparties.site/'
-LOGIN_URL = 'https://stellarburgers.nomoreparties.site/login'
-PROFILE_URL = 'https://stellarburgers.nomoreparties.site/account/profile'
+MAIN_URL = 'https://stellarburgers.nomoreparties.site'
+LOGIN_URL = f'{MAIN_URL}/login'
+PROFILE_URL = f'{MAIN_URL}/account/profile'
 
 
 
